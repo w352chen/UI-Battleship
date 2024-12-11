@@ -1,2 +1,2 @@
-# UI-Battleship
-The UI project implements the board game Battleship
+# Battleship
+This implements the board game Battleship.
